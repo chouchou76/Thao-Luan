@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Nhúng video từ các nền tảng trực tuyến</title>
+    </head>
+    <body>
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/MxpYSaXkRlw?si=JU1FchCZOfTZHVE1" 
+        title="Cô đôi thượng ngàn" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+    </body>
+</html>
+
+
